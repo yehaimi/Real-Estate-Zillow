@@ -11,5 +11,7 @@ I decide to do my own research with my data analytics skills. First thing to do,
 That's how I did it. The real question is, what is the business insight and how to capitalize it? We can actually create daily job to automate the scrapping process and load those data into our database. Then we can send us alert in terms of price drop, market trend, and even evalution model.
 
 Feel free to try out the python code to scrap those listing data from Zillow.com!
+Here:(https://github.com/yehaimi/real_estate_zillow/blob/18c2262412a770fe4872cdb63d3992cf79c07a72/real_estate_zillow.py)
+
 
 (Please Scrape Responsibly)
